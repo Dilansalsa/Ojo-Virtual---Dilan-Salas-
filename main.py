@@ -19,8 +19,8 @@ traducciones = {
     "computer monitor": "monitor", "screen": "pantalla",
     "projector": "proyector", "projector screen": "pantalla proyector",
     "cell phone": "celular", "smartphone": "celular", "tablet": "tablet",
-    "headphones": "audífonos",
-    "whiteboard": "pizarra", "marker": "marcador", "pen": "bolígrafo",
+    "headphones": "audifonos",
+    "whiteboard": "pizarra", "marker": "marcador", "pen": "boligrafo",
     "pencil": "lapiz", "notebook": "cuaderno", "backpack": "mochila",
     "desk": "escritorio", "chair": "silla", "trash can": "basurero",
     "clock": "reloj", "glasses": "lentes", "water bottle": "botella de agua"
