@@ -21,7 +21,7 @@ traducciones = {
     "cell phone": "celular", "smartphone": "celular", "tablet": "tablet",
     "headphones": "audífonos",
     "whiteboard": "pizarra", "marker": "marcador", "pen": "bolígrafo",
-    "pencil": "lápiz", "notebook": "cuaderno", "backpack": "mochila",
+    "pencil": "lapiz", "notebook": "cuaderno", "backpack": "mochila",
     "desk": "escritorio", "chair": "silla", "trash can": "basurero",
     "clock": "reloj", "glasses": "lentes", "water bottle": "botella de agua"
 }
